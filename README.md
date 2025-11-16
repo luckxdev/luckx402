@@ -187,8 +187,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact 📞
 
-- 🐙 **GitHub**: [yourusername](https://github.com/luckxdev)
-- 🌐 **Website**: [luckx402.com](https://luckx402.github.io)
+- 🐙 **GitHub**: [luckxdev](https://github.com/luckxdev)
+- 🌐 **Website**: [luckx402.github.io](https://luckx402.github.io)
 - 📧 **Email**: luckx402@hotmail.com
 
 ---
