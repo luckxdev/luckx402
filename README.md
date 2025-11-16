@@ -188,7 +188,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact 📞
 
 - 🐙 **GitHub**: [luckxdev](https://github.com/luckxdev)
-- 🌐 **Website**: [luckx402.verel.app](https://luckx402.vercel.app)
+- 🌐 **Website**: [luckx402.vercel.app](https://luckx402.vercel.app)
 - 📧 **Email**: luckx402@hotmail.com
 
 ---
